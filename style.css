@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-size: 18px;
+  font-family: 'Cairo', sans-serif;
+}
+.banner {
+  height: 300px;
+  width: 100%;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  text-align: center;
+  font-size: 25px;
+}
+
+p {
+  text-align: justify;
+}
+
+.intro {
+  border: 1px solid red;
+  padding: 0rem 5rem 0rem 5rem;
+  overflow: hidden;
+}
+
+.video {
+  border: 1px solid red;
+  padding: 0rem 5rem 0rem 5rem;
+  overflow: hidden;
+}
+
+.process {
+  border: 1px solid red;
+  padding: 0rem 5rem 0rem 5rem;
+  overflow: hidden;
+}
+
+.advantages-disadvantages {
+  border: 1px solid red;
+  padding: 0rem 5rem 0rem 5rem;
+  overflow: hidden;
+}
+
+.conclusion {
+  border: 1px solid red;
+  padding: 0rem 5rem 0rem 5rem;
+  overflow: hidden;
+}
+
+.section-1 {
+  float: left;
+  width: 74%
+}
+
+
+
+.section-right {
+  border: 1px solid blue;
+  float: right;
+  width: 25%;
+  padding: 3px;
+}
+
+iframe {
+  padding: 0 10% 0 10%;
+}
+
